@@ -11,7 +11,7 @@
   <a href="#plugins">plugins</a>,
   <a href="#articles">articles</a>,
   <a href="#sites">sites</a>
-  and <a href="https://build.blades.ninja/">more ↗</a>
+  and <a href="https://buildawesome.one/">more ↗</a>
 </p>
 
 ---
