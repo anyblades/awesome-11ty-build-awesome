@@ -162,6 +162,10 @@ Archive:
 
 ## <sup style>APPENDIX</sup>
 
+### Featured by
+
+- https://github.com/subev/awesome-stars
+
 ### Contribute
 
 Contributions welcome and encouraged! Read the [contribution guidelines](https://github.com/anyblades/awesome-buildawesome/blob/master/CONTRIBUTING.md) first.
