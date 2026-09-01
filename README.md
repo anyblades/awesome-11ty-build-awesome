@@ -64,22 +64,28 @@ See also:
 ## Starters
 
 - [Curated list of ~40 starters](https://11tybundle.dev/starters/) `@ 11ty Bundle`
-- [Curated list of minimal starters](https://build.blades.ninja/starters/) `@ Build Awesome Kit`
+- [Curated list of minimal starters](https://buildawesome.one/starters/) `@ Build Awesome One`
 - [Curated list of starters for](https://sveltiacms.app/en/docs/frameworks/eleventy) `@ Sveltia CMS`
 - [A larger list of 150+ community starters](https://www.11ty.dev/docs/starter/) `@ 11ty.dev`
 
-Build Awesome starters:
+New starters:
 
 <table><tr><td>
 
-[*C*ontent-First](//content.build.blades.ninja/)
-: Best content-first micro-starter powered by Build Awesome Kit and Blades CSS.
-
-[*M*icro-Starter[s]](//micro.build.blades.ninja/)
-: Modern 11-in-1 micro-starter showcasing Build Awesome Kit for: [1] Blades CSS [2] Pico CSS [3] Bootstrap CSS [4] Web Awesome [5] Sveltia CMS [6] Liquid (templates) [7] Tailwind CSS [8] Shotpipe (OG images) [9] Content-First 🔥 [10] Bare Build Awesome Kit (plugin) [11] Bare Build Awesome Kit (scripts).
+[_One_ Starter](https://github.com/buildawesome-one/starter)
+: Best content-first micro-starter powered by Build Awesome One kit and Blades CSS — perfect for blogs, docs, landing pages, or anything content-driven.
 
 [11ty Wisp](https://github.com/adamdjbrett/11ty-wisp)
 : Ultra-tiny Build Awesome starter with Blades CSS, blog, docs, sidenotes, and Pagefind search.
+
+[Extended AI Blog](https://github.com/GoogleChrome/starter-extended-blog)
+: An Eleventy blog template with an AI-powered blog post editor.
+
+[Web Awesome SSR](https://github.com/konnorrogers/11ty-webawesome-ssr)
+: Bare bones 11ty + Web Awesome setup using SSR.
+
+[All-in-_One_ Examples](https://github.com/buildawesome-one/examples)
+: Example starters showcasing Build Awesome One kit for: [1] Multisite Starter [2] Blades / Pico CSS [3] Bootstrap [4] Web Awesome [5] Sveltia CMS [6] Liquid Templates [7] Tailwind Starter [8] OG Images Starter.
 
 <!--
 [Base Blog](https://github.com/11ty/awesome-base-blog)
@@ -88,22 +94,19 @@ Build Awesome starters:
 
 </td></tr></table>
 
-Featured Eleventy starters:
+See also:
 
 <table><tr><td>
-
-[Extended Blog](https://github.com/GoogleChrome/starter-extended-blog)
-: An Eleventy blog template with an AI-powered blog post editor. `@ Google Chrome`
 
 [Digital Obsidian Garden](https://github.com/oleeskild/digitalgarden)
 : Turn your Obsidian vault into a beautiful website. Free, open-source, and entirely yours.
 
-[Web Awesome SSR](https://github.com/konnorrogers/11ty-webawesome-ssr)
-: Bare bones 11ty + Web Awesome setup using SSR.
-
 </td></tr></table>
 
 ---
+
+> [!IMPORTANT]
+> **Work in progress** — information below is under review:
 
 ## Plugins
 
@@ -185,6 +188,4 @@ Contributions welcome and encouraged! Read the [contribution guidelines](https:/
 | [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0) | [![BY SA](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](https://github.com/anyblades/awesome-buildawesome/blob/master/content/LICENSE.md) |
 
 <!--
-> [!IMPORTANT]
-> **Work in progress** — information below is under review:
 -->
