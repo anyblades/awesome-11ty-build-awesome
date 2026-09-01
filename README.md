@@ -132,9 +132,6 @@ See also:
 
 ---
 
-> [!IMPORTANT]
-> **Work in progress** — information below is under review:
-
 ## Articles
 
 - [Official docs](https://www.11ty.dev/docs/)
@@ -173,18 +170,18 @@ Archive:
 
 ### Contribute
 
-Contributions welcome and encouraged! Read the [contribution guidelines](https://github.com/anyblades/awesome-buildawesome/blob/master/CONTRIBUTING.md) first.
+Contributions welcome and encouraged! Read the [contribution guidelines](https://github.com/buildawesome-one/awesome/blob/main/CONTRIBUTING.md) first.
 
 ### Credits
 
 - Originally created by [Chris Collins](https://github.com/chrissy-dev)
-- Currently maintained by [*A*nydigital](https://any.digital/)
+- Currently maintained by [*A*nydigital](https://github.com/anydigital)
 
 ### License
 
-| Awesome 11ty / Build Awesome list                                                                                                       | Build Awesome Kit docs                                                                                                                                                 |
-| --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0) | [![BY SA](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](https://github.com/anyblades/awesome-buildawesome/blob/master/content/LICENSE.md) |
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
 <!--
+> [!IMPORTANT]
+> **Work in progress** — information below is under review:
 -->
