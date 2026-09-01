@@ -105,36 +105,36 @@ See also:
 
 ---
 
-> [!IMPORTANT]
-> **Work in progress** — information below is under review:
-
 ## Plugins
 
 - [Official plugins](https://www.11ty.dev/docs/plugins/) `@ 11ty.dev`
 - [A larger list of ~100 community plugins](https://www.11ty.dev/docs/plugins/community/) `@ 11ty.dev`
 
-Build Awesome plugins:
+New plugins:
 
 <table><tr><td>
 
-[*B*uild Awesome Kit](https://github.com/anyblades/buildawesome-kit)
-: Lightweight plugin with essential opt-out features, filters, and scripts. Use it standalone OR fully pre-configured with other popular plugins OR via one of our micro-starters.
+[Build Awesome _One_](https://github.com/buildawesome-one/kit)
+: One Plugin + One Config + One Starter = All-in-One kit for 11ty.
+
+[OG Images (Shotpipe)](https://github.com/podop29/eleventy-plugin-shotpipe)
+: Open Graph images for Eleventy — with zero build-time cost.
 
 </td></tr></table>
 
-Featured Eleventy plugins:
+See also:
 
 <table><tr><td>
 
 [Table of Contents](https://github.com/uncenter/eleventy-plugin-toc)
 : Simple and configurable table of contents generation for Eleventy.
 
-[Shotpipe (OG images)](https://github.com/podop29/eleventy-plugin-shotpipe)
-: Open Graph images for Eleventy — with zero build-time cost.
-
 </td></tr></table>
 
 ---
+
+> [!IMPORTANT]
+> **Work in progress** — information below is under review:
 
 ## Articles
 
