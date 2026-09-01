@@ -20,7 +20,7 @@
 
 <table><tr><td class="has-timeline">
 
-Jul 31
+Sep 1
 : [Build Awesome _One_](//buildawesome.one/) kit released (contrib), featuring One Plugin, One Config & One Starter — as all-in-One kit for 11ty.
 
 Jul 1
