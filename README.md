@@ -21,8 +21,7 @@
 <table><tr><td class="has-timeline">
 
 Jul 31
-: [<i class="fa-brands fa-square-build-awesome-stroke fa-lg mark-brand"></i> Build Awesome Kit](https://build.blades.ninja/) released (contrib)
-: including [11-in-1 Micro-Starter[s]](//micro.build.blades.ninja/) and [Content-First Starter](//content.build.blades.ninja/)
+: [Build Awesome _One_](//buildawesome.one/) kit released (contrib), featuring One Plugin, One Config & One Starter — as all-in-One kit for 11ty.
 
 Jul 1
 : ~~[Build Awesome (11ty) v4.0.0-alpha.9](https://github.com/11ty/buildawesome/releases/tag/v4.0.0-alpha.9) released~~
