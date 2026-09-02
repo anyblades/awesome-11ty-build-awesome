@@ -21,7 +21,7 @@
 <table><tr><td class="has-timeline">
 
 Sep 1
-: [Build Awesome _One_](//buildawesome.one/) kit released (contrib), featuring One Plugin, One Config & One Starter — as all-in-One kit for 11ty.
+: [Build Awesome _One_](//buildawesome.one/) kit released (contrib), featuring One Plugin, One Config & One Starter = all-in-One kit for 11ty.
 
 Jul 1
 : ~~[Build Awesome (11ty) v4.0.0-alpha.9](https://github.com/11ty/buildawesome/releases/tag/v4.0.0-alpha.9) released~~
