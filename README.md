@@ -142,6 +142,9 @@ Featured community articles:
 
 <table><tr><td>
 
+[MicroLighter is Living Span-Free In My `<head>`](https://www.steele.blue/microlighter/)
+: Matt Steele is trying out Dave Rupert’s new MicroLighter Syntax Highlighting plugin (using CSS Custom Highlights) and shows how you can do the same on your Build Awesome/Eleventy project.
+
 [Document](https://apv-document.netlify.app)
 : An inquiry into the web document — what's left when everything accumulated around it is taken away.
 
