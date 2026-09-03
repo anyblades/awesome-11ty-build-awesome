@@ -66,7 +66,7 @@ See also:
 - [Curated list of minimal starters](https://buildawesome.one/starters/) `@ Build Awesome One`
 - [Curated list of starters for](https://sveltiacms.app/en/docs/frameworks/eleventy) `@ Sveltia CMS`
 - [A larger list of 150+ community starters](https://www.11ty.dev/docs/starter/) `@ 11ty.dev`
-- [Even more starters (GitHub explorer)](https://eleventy-explorer.tigersway.dev/?q=starter&sort=pushed)
+- [Even more starters (GitHub explorer)](https://eleventy-explorer.tigersway.dev/?q=starter&sort=pushed&archived=true)
 
 New starters:
 
@@ -109,7 +109,7 @@ See also:
 
 - [Official plugins](https://www.11ty.dev/docs/plugins/) `@ 11ty.dev`
 - [A larger list of ~100 community plugins](https://www.11ty.dev/docs/plugins/community/) `@ 11ty.dev`
-- [Even more starters (GitHub explorer)](https://eleventy-explorer.tigersway.dev/?q=plugin&sort=pushed)
+- [Even more starters (GitHub explorer)](https://eleventy-explorer.tigersway.dev/?q=plugin&sort=pushed&archived=true)
 
 New plugins:
 
